@@ -1,0 +1,217 @@
+@font-face {
+	font-family: 'real-estate';
+	src:url('../fonts/icomoon.eot?-z05e5f');
+	src:url('../fonts/icomoon.eot?#iefix-z05e5f') format('embedded-opentype'),
+		url('../fonts/icomoon.woff?-z05e5f') format('woff'),
+		url('../fonts/icomoon.ttf?-z05e5f') format('truetype'),
+		url('../fonts/icomoon.svg?-z05e5f#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="real-"], [class*=" real-"] {
+	font-family: 'real-estate';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.real-area_1:before {
+	content: "\e600";
+}
+.real-area_2:before {
+	content: "\e601";
+}
+.real-armchair:before {
+	content: "\e602";
+}
+.real-axe:before {
+	content: "\e603";
+}
+.real-bank:before {
+	content: "\e604";
+}
+.real-bath:before {
+	content: "\e605";
+}
+.real-bed:before {
+	content: "\e606";
+}
+.real-brush:before {
+	content: "\e607";
+}
+.real-building_1:before {
+	content: "\e608";
+}
+.real-building_2:before {
+	content: "\e609";
+}
+.real-building_office:before {
+	content: "\e60a";
+}
+.real-bulb:before {
+	content: "\e60b";
+}
+.real-cabinet:before {
+	content: "\e60c";
+}
+.real-chair:before {
+	content: "\e60d";
+}
+.real-church:before {
+	content: "\e60e";
+}
+.real-crane:before {
+	content: "\e60f";
+}
+.real-curtains:before {
+	content: "\e610";
+}
+.real-director_chair:before {
+	content: "\e611";
+}
+.real-door:before {
+	content: "\e612";
+}
+.real-downstairs:before {
+	content: "\e613";
+}
+.real-factory:before {
+	content: "\e614";
+}
+.real-fence:before {
+	content: "\e615";
+}
+.real-floor_plan:before {
+	content: "\e616";
+}
+.real-fridge:before {
+	content: "\e617";
+}
+.real-hammer:before {
+	content: "\e618";
+}
+.real-hanger_floor:before {
+	content: "\e619";
+}
+.real-hard_hat:before {
+	content: "\e61a";
+}
+.real-height:before {
+	content: "\e61b";
+}
+.real-house_1:before {
+	content: "\e61c";
+}
+.real-house_2:before {
+	content: "\e61d";
+}
+.real-house_lock:before {
+	content: "\e61e";
+}
+.real-house_love:before {
+	content: "\e61f";
+}
+.real-house_plan:before {
+	content: "\e620";
+}
+.real-house_sale:before {
+	content: "\e621";
+}
+.real-house_search:before {
+	content: "\e622";
+}
+.real-house_sell:before {
+	content: "\e623";
+}
+.real-house_window:before {
+	content: "\e624";
+}
+.real-lamp_1:before {
+	content: "\e625";
+}
+.real-lamp_2:before {
+	content: "\e626";
+}
+.real-mail_box:before {
+	content: "\e627";
+}
+.real-mirror:before {
+	content: "\e628";
+}
+.real-moving:before {
+	content: "\e629";
+}
+.real-office_table:before {
+	content: "\e62a";
+}
+.real-paint_roller:before {
+	content: "\e62b";
+}
+.real-rent:before {
+	content: "\e62c";
+}
+.real-sale:before {
+	content: "\e62d";
+}
+.real-saw:before {
+	content: "\e62e";
+}
+.real-screwdriver:before {
+	content: "\e62f";
+}
+.real-shop:before {
+	content: "\e630";
+}
+.real-shovel:before {
+	content: "\e631";
+}
+.real-sofa:before {
+	content: "\e632";
+}
+.real-sold:before {
+	content: "\e633";
+}
+.real-swiming_pool:before {
+	content: "\e634";
+}
+.real-table:before {
+	content: "\e635";
+}
+.real-table_chair:before {
+	content: "\e636";
+}
+.real-tape_line:before {
+	content: "\e637";
+}
+.real-toilet:before {
+	content: "\e638";
+}
+.real-toilet_paper:before {
+	content: "\e639";
+}
+.real-tree:before {
+	content: "\e63a";
+}
+.real-trowel:before {
+	content: "\e63b";
+}
+.real-TV:before {
+	content: "\e63c";
+}
+.real-upstairs:before {
+	content: "\e63d";
+}
+.real-warehouse:before {
+	content: "\e63e";
+}
+.real-washer:before {
+	content: "\e63f";
+}
